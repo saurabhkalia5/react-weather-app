@@ -2,6 +2,9 @@
 
 This project was bootstrapped with Create React App, developed by Saurabh with love.
 
+## View It live 
+[http://react-weather-app-production-71f1.up.railway.app]
+
 ## Available Scripts
 
 In the project directory, you can run:
