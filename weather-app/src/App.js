@@ -58,6 +58,7 @@ function App() {
           placeholder='Enter Location'
           type="text"
         />
+        <h6 style={{marginTop:'1vh'}}>Press Enter</h6>
       </div>
       <div className="container">
         <div className="top">
